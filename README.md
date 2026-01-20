@@ -1,7 +1,6 @@
 # Minetest-Tremors
 
 ![Banner do mod Tremors](screenshot.png)
-*(Se você tiver um banner/screenshot legal na raiz do repositório, ele aparece aqui)*
 
 **Tremors** é um mod para **Minetest** / **Luanti** que traz criaturas subterrâneas inspiradas nos clássicos filmes *Tremors* (O Ataque dos Vermes Malditos) e *Tremors II: Aftershocks* (O Ataque dos Vermes Malditos 2) para o seu mundo de blocos. Atualmente inclui:
 
