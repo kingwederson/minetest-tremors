@@ -51,7 +51,7 @@ O mod está em desenvolvimento ativo, mas já é jogável e traz uma experiênci
 
 ## Créditos e agradecimentos especiais
 
-- **Modelagem 3D e animações originais** — Obrigado imensamente à **@ppinheirosiqueira** pela incrível ajuda na conversão e finalização dos modelos para o formato glTF (.glb). Sem sua expertise em Blockbench e Blender, o Shrieker não estaria tão bonito e animado como está hoje! ❤️
+- **Modelagem 3D e animações originais** — Obrigado imensamente à **@ppinheirosiqueira** pela incrível ajuda na conversão e finalização dos modelos para o formato glTF (.glb).
 
 - Sons e ideias gerais — inspirados no universo Tremors (filmes e jogos)
 
