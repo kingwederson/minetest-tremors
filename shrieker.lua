@@ -37,24 +37,11 @@ mobs:register_mob("tremors:shrieker", {
 
     -- Sons (usa seus arquivos OGG; random toca idle aleatório)
     sounds = {
-        random = {
-            "shrieker_idle_0.ogg",
-            "shrieker_idle_1.ogg",
-            "shrieker_idle_3.ogg",  -- Nota: Você tem 0,1,3,4,5,6 (sem 2?)
-            "shrieker_idle_4.ogg",
-            "shrieker_idle_5.ogg",
-            "shrieker_idle_6.ogg",
-        },
-        attack = {
-            "shrieker_attack_0.ogg",
-            "shrieker_attack_1.ogg",
-        },
-        damage = {
-            "shrieker_hurt_0.ogg",
-            "shrieker_hurt_1.ogg",
-        },
-        death = "shrieker_die.ogg",
-        distance = 48,  -- Alcance de som
+        random  = "shrieker_idle",     -- mobs_redo vai procurar shrieker_idle1..7.ogg
+        attack  = "shrieker_attack",
+        damage  = "shrieker_hurt",
+        death   = "shrieker_die",
+        distance = 48,
     },
 
     -- AI e movimento básico
