@@ -29,7 +29,7 @@ O mod está em desenvolvimento ativo, mas já é jogável e traz uma experiênci
 ## Instalação
 
 1. Baixe este repositório como ZIP ou clone via git:
-git clone https://github.com/kingwederson/minetest-tremors.git tremors
+`git clone https://github.com/kingwederson/minetest-tremors.git tremors`
 
 2. Coloque a pasta `tremors` dentro da pasta de mods do seu Minetest/Luanti:
 - Windows: `C:\Users\SeuNome\Minetest\mods\`
