@@ -3,17 +3,17 @@
 ![Banner do mod Tremors](screenshot.png)
 *(Se você tiver um banner/screenshot legal na raiz do repositório, ele aparece aqui)*
 
-**Tremors** é um mod para **Minetest** / **Luanti** que traz criaturas subterrâneas inspiradas no clássico filme *Tremors* (Tremor – O Dia do Pesadelo) para o seu mundo de blocos. Atualmente inclui:
+**Tremors** é um mod para **Minetest** / **Luanti** que traz criaturas subterrâneas inspiradas nos clássicos filmes *Tremors* (O Ataque dos Vermes Malditos) e *Tremors II: Aftershocks* (O Ataque dos Vermes Malditos 2) para o seu mundo de blocos. Atualmente inclui:
 
-- **Graboid** — a larva gigante que cava túneis e ataca de surpresa
-- **Shrieker** — a criatura que grita, caça no escuro e ataca com ferocidade
+- **Graboid** — a larva gigante que cava túneis e ataca de surpresa.
+- **Shrieker** — a criatura bípede que grita, caça no escuro e ataca com ferocidade.
 
 O mod está em desenvolvimento ativo, mas já é jogável e traz uma experiência de terror/sobrevivência única para servidores e mundos singleplayer.
 
 ## Características principais
 
-- Modelos 3D animados (usando glTF, formato moderno e recomendado no Luanti 5.10+)
-- Animações fluidas: idle, walk, run, angry/grito e ataque
+- Modelos 3D animados (usando glb, formato moderno e recomendado no Luanti 5.10+)
+- Animações fluidas: idle, walk, run, angry e ataque
 - Sons autênticos (gritos, ataques, idle, dor e morte)
 - IA baseada na API mobs_redo (compatível com a maioria dos mods de mobs)
 - Spawns naturais em cavernas, desertos e áreas escuras
@@ -31,11 +31,10 @@ O mod está em desenvolvimento ativo, mas já é jogável e traz uma experiênci
 1. Baixe este repositório como ZIP ou clone via git:
 git clone https://github.com/kingwederson/minetest-tremors.git tremors
 
-
 2. Coloque a pasta `tremors` dentro da pasta de mods do seu Minetest/Luanti:
 - Windows: `C:\Users\SeuNome\Minetest\mods\`
 - Linux/Flatpak: `~/.var/app/org.luanti.luanti/.minetest/mods/`
-- Android: use o gerenciador de mods do jogo
+- Android: use o gerenciador de mods do jogo.
 
 3. Ative o mod no menu de configuração do mundo (ou adicione `load_mod = tremors` no world.mt)
 
@@ -76,8 +75,9 @@ Quer ajudar? Bem-vindo!
 
 ## Roadmap (planejamento futuro)
 
-- Adicionar o **Ass-Blaster** (a fase final do Graboid)
-- Itens dropados úteis (ex: pele resistente, veneno, etc.)
+- Adicionar o **Graboid** (a fase 1)
+- Adicionar o **Ass-Blaster** (a fase 3)
+- Itens dropados úteis (ex: pele resistente, etc.)
 - Spawn condicional (ex: só em biomas específicos ou após certa profundidade)
 - Sons mais variados e triggers por distância
 - Possibilidade de "tremor" no chão quando Graboid se aproxima
@@ -87,6 +87,6 @@ Se você gosta de terror, survival hardcore ou só quer assustar seus amigos no 
 
 Qualquer dúvida, me chama no X: [@kingwederson](https://x.com/kingwederson)
 
-Boa jogatina e cuidado com os Shriekers no escuro! 🕳️🔊
+Bom jogo e cuidado com os Shriekers no escuro! 🕳️🔊
 
 Última atualização: Janeiro 2026
